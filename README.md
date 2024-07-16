@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Project README</title>
+    
 </head>
 <body>
     <h1>Многофункциональный интерфейс для создания каверов</h1>
